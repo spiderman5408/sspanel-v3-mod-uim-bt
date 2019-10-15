@@ -1,8 +1,8 @@
 # 基于宝塔面板的sspanel-v3-mod-uim一键安装脚本：   
 
 * 在线演示：暂无   
-* 本人博客：https://www.7colorblog.com  
-* 七彩杂铺货：https://faka.7colorblog.com  
+* 本人博客：https: 
+* 七彩杂铺货：https: 
 
 #安装教程
 
@@ -10,7 +10,7 @@
 需要是centos7系统
 先安装宝塔
 ``` bash
-yum install -y wget && wget -O install.sh http://download.bt.cn/install/install.sh && sh install.sh
+
 ```
 ## 宝塔环境准备
 安装宝塔后登录，选择一键安装lnmp环境，注意php版本选择7.1，其他默认，
@@ -21,9 +21,7 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install.
 
 ## 安装脚本
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/lizhongnian/sspanel-v3-mod-uim-bt/master/sspanel-v3-mod-uim-bt.sh &&
-chmod +x sspanel-v3-mod-uim-bt.sh &&
-bash sspanel-v3-mod-uim-bt.sh
+
 ```
 复制执行以上脚本，如下图：
 
@@ -36,4 +34,4 @@ bash sspanel-v3-mod-uim-bt.sh
 
 ps:本脚本并未在所有机器都测试过，处于新生脚本，</br>
 希望大家可以多提提意见，大家有问题可以及时返回给我</br>
-联系方式：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0e0ad00fa39b8d74f9aee8aba6d4fa87387d41ae60a8f617e437a9ae5c4cea32">七彩blog交流群</a>
+联系方式：<a target="_blank" href="">七彩blog交流群</a>
